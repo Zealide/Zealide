@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zealide
 - 👀 I’m interested in learing to code games and other small applications
 - 🌱 I’m currently learning to code small projects with python
-- 📫 How to reach me ...
+- 📫 You can reach me on Discord under the username zealide
 - currently working on a Interface for "my_first_programm"
 <!---
 Zealide/Zealide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
